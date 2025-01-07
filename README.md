@@ -8,7 +8,7 @@
 
 - 👨‍💻 todos mis proyectos estan en [github-repositories]([https://aliboucoding.com/courses](https://github.com/jfrancobeta?tab=repositories))
 
-- 📝 mi pagina web [mi-pagina-web]([https://mipagina.com](https://jfrancobeta.github.io/portafolio/))
+- 📝 mi pagina web [mi-pagina-web]([https://jfrancobeta.github.io/portafolio/])
 
 - 💬 preguntame sobre **Spring, Java, Docker, Angular, microservicios ....**
 
