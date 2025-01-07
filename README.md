@@ -6,7 +6,7 @@
 
 - 🔭 actualmente me encuentro estudiando **universidad libre seccional cali**
 
-- 👨‍💻 todos mis proyectos estan en [github-repositories]([https://aliboucoding.com/courses](https://github.com/jfrancobeta?tab=repositories))
+- 👨‍💻 todos mis proyectos estan en [github-repositories](https://github.com/jfrancobeta?tab=repositories)
 
 - 📝 mi pagina web [mi-pagina-web](https://jfrancobeta.github.io/portafolio/)
 
