@@ -1,16 +1,16 @@
-<h1 align="center">hola 👋, soy juan david franco</h1>
+<h1 align="center">Hola 👋, soy juan david franco</h1>
 <h3 align="center">un apasionado ingeniero de sistemas de colombia</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfrancobeta&label=Profile%20views&color=0e75b6&style=flat" alt="jfrancobeta" /> </p>
 
-- 🔭 actualmente me encuentro estudiando **universidad libre seccional cali**
+- 🔭 Ingeniero de sistemas de **universidad libre seccional cali**
 
 - 👨‍💻 todos mis proyectos estan en [github-repositories](https://github.com/jfrancobeta?tab=repositories)
 
 - 📝 mi pagina web [mi-pagina-web](https://jfrancobeta.github.io/portafolio/)
 
-- 💬 preguntame sobre **Spring, Java, Docker, Angular, microservicios ....**
+- 💬 preguntame sobre **Spring, Java, Docker, Angular, React, microservicios ....**
 
 - ⚡ Dato **Haz que el aprendizaje sea divertido**
 
